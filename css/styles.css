@@ -30,3 +30,6 @@ h5 {
 div#header {
   background-image: url(images/cat_in_snow.jpg);
 }
+h2, p {
+         text-align: center;
+}
