@@ -17,7 +17,7 @@ h3 {
 }
 
 
-p{
+p {
   color: rgb(56, 56, 56);
   padding: 25px 50px 5px 100px;
 }
@@ -26,3 +26,8 @@ h5 {
   color:rgb(169,169,169);
   padding: 25px 50px 5px 100px;
 }
+
+h5#Toretto {
+  color: rgb(0,0,0);
+}
+div#Toretto {}
