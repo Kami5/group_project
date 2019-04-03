@@ -95,6 +95,14 @@ h4{
   color: white;
 }
 
+.page-container {
+  position: relative;
+  min-height: 100vh;
+}
+.content-wrap {
+  padding-bottom: 2.5rem;    /* Footer height */
+}
+
 footer {
   height: 50px;
   width:100%;
@@ -102,8 +110,5 @@ footer {
   background-color: rgb(56, 56, 56);
   color: rgb(255, 255, 255);
   text-align: center;
-  position:fixed;
-  padding-top: 10px;
-  padding-bottom: 0px;
   bottom:0;
 }
