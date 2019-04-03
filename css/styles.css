@@ -16,7 +16,11 @@ h1{
 }
 
 h3{ transform: translate(800px, -50px);
+ font-family: 'Courier'
+}
 
+h3{
+  font-size: 40px;
 }
 
 .starter-template {
