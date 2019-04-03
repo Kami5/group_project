@@ -15,9 +15,7 @@ h1{
   text-align: center;
 }
 
-h3{
-float:right;
-margin-right: 175px
+h3{ transform: translate(800px, -50px);
 
 }
 
