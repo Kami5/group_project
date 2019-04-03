@@ -15,8 +15,9 @@ h1{
   text-align: center;
 }
 
-h3{ transform: translate(800px, -70px);
- font-family: 'Courier'
+h3{
+  transform: translate(800px, -70px);
+  font-family: 'Courier'
 }
 
 h3{
