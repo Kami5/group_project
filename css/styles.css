@@ -23,6 +23,14 @@ h3{
   font-size: 40px;
 }
 
+h2{
+ font-family: 'Courier'
+}
+
+p{
+  font-family: 'Courier'
+}
+
 .starter-template {
   padding: 3rem 1.5rem;
   text-align: center;
